@@ -79,7 +79,7 @@ Elegante, moderno, estilo SaaS premium.
 ## 🖥️ Como Rodar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/artioli-dashboard.git
+git clone https://github.com/SEU-USUARIO/dashboard.git
 cd artioli-dashboard
 ```
 
